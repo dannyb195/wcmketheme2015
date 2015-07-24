@@ -1,4 +1,4 @@
-Design
+Design ( html )
 https://github.com/marktimemedia/theme-demo
 
 WordPress Demo Data
