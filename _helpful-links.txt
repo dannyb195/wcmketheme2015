@@ -1,0 +1,13 @@
+Design
+https://github.com/marktimemedia/theme-demo
+
+WordPress Demo Data
+https://codex.wordpress.org/Theme_Unit_Test
+
+Code ( nothing really here as of the beginngin of the talk )
+https://github.com/dannyb195/wcmketheme2015
+
+Sublime Text 2
+http://www.sublimetext.com/
+
+@add_action_dan
